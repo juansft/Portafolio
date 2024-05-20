@@ -40,9 +40,7 @@ function App() {
           </ul>
         </div>
       </nav>
-      <div className="flex justify-center items-center w-full h-auto bg-gray-950 p-4">
-        <h1 className="text-3xl font-bold text-white">¡Hola! Soy Carlos, ingeniero de software. Este es mi portafolio donde encontraras inoformacion sobre mi, mis Habilidades, ademas algunos proyectos en los que he trabajado.</h1>
-      </div>
+
       <main className='font-roboto flex justify-center items-center w-screen h-screen'>
         {/* Contenido principal aquí */}
       </main>
