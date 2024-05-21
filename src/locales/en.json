@@ -1,12 +1,23 @@
 {
-    "welcomeMessage": "Hello! I am Juan, a passionate Software Engineering student with a special focus on Frontend development. I consider myself a highly competitive person in all aspects of my life, always seeking to overcome my own limits and achieve my goals with determination and dedication. In addition to my love for technology and programming, I have an unbridled passion for motorsports and cars. Since I was little, the world of racing and motors has fascinated me, and I enjoy every opportunity to immerse myself in it. This passion not only inspires me, but also fuels my creativity and my focus on teamwork, two fundamental aspects both in software development and in the world of motorsports.",
-    "moreAboutMe": "about me",
-    "newContent": "Coming soon",
-    "newContentDescription": "Coming soon.",
-    "contact": "Contact",
-    "home": "Home",
-    "moreAboutme": "About me",
-    "Skills": "Skills",
-    "Projects": "Projects"
-  }
-  
+  "welcomeMessage": "Hello! I am Juan, a passionate Software Engineering student with a special focus on Frontend development. I consider myself a highly competitive person in all aspects of my life, always seeking to overcome my own limits and achieve my goals with determination and dedication. In addition to my love for technology and programming, I have an unbridled passion for motorsports and cars. Since I was little, the world of racing and motors has fascinated me, and I enjoy every opportunity to immerse myself in it. This passion not only inspires me, but also fuels my creativity and my focus on teamwork, two fundamental aspects both in software development and in the world of motorsports.",
+  "moreAboutMe": "about me",
+  "newContent": "Coming soon",
+  "newContentDescription": "Coming soon.",
+  "contact": "Contact",
+  "home": "Home",
+  "moreAboutme": "About me",
+  "Skills": "Skills",
+  "Projects": "Projects",
+  "project1Title": "APP DIAS",
+  "project1Description": "This project in C# is a simple application that takes a date as input and adds a day to that date.",
+  "project2Title": "WEB TIENDAS",
+  "project2Description": "This is a project made with Python and Django, a website for selling fruits.",
+  "project3Title": "REPOSITORIO C#",
+  "project3Description": "This is a repository project where various algorithms made with C# are stored.",
+  "skill1Title": "FRONTEND DEVELOPER",
+  "skill1Description": "I am passionate about frontend because I love creating visual and functional experiences that captivate users. Working on the frontend allows me to bring creative designs to life and provide an exceptional user experience.",
+  "skill2Title": "PYTHON DEVELOPER",
+  "skill2Description": "I prefer Python for its versatility and readability. I specialize in web development and task automation, leveraging Python's power and its large community to create efficient and precise solutions.",
+  "skill3Title": "DJANGO DEVELOPER",
+  "skill3Description": "I like Django because it allows me to build web applications quickly and efficiently. Its focus on productivity and simplicity attracts me, as I can develop complex projects more easily."
+}

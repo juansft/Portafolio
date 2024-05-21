@@ -1,11 +1,23 @@
 {
-    "welcomeMessage": "¡Hola! Soy Juan, un apasionado estudiante de Ingeniería de Software con un enfoque especial en el desarrollo Frontend. Me considero una persona altamente competitiva en todos los aspectos de mi vida, siempre buscando superar mis propios límites y alcanzar mis metas con determinación y dedicación. Además de mi amor por la tecnología y la programación, tengo una pasión desenfrenada por el automovilismo y los carros. Desde pequeño, el mundo de las carreras y los motores me ha fascinado, y disfruto cada oportunidad para sumergirme en él. Esta pasión no solo me inspira, sino que también alimenta mi creatividad y mi enfoque en el trabajo en equipo, dos aspectos fundamentales tanto en el desarrollo de software como en el mundo del automovilismo",
-    "newContent": "Proximamente",
-    "newContentDescription": "Proximamente",
-    "contact": "Contacto",
-    "home": "Inicio",
-    "moreAboutme": "Sobre mi",
-    "Skills": "habilidades",
-    "Projects": "Proyectos"
-  }
-  
+  "welcomeMessage": "¡Hola! Soy Juan, un apasionado estudiante de Ingeniería de Software con un enfoque especial en el desarrollo Frontend. Me considero una persona altamente competitiva en todos los aspectos de mi vida, siempre buscando superar mis propios límites y alcanzar mis metas con determinación y dedicación. Además de mi amor por la tecnología y la programación, tengo una pasión desenfrenada por el automovilismo y los carros. Desde pequeño, el mundo de las carreras y los motores me ha fascinado, y disfruto cada oportunidad para sumergirme en él. Esta pasión no solo me inspira, sino que también alimenta mi creatividad y mi enfoque en el trabajo en equipo, dos aspectos fundamentales tanto en el desarrollo de software como en el mundo del automovilismo",
+  "moreAboutMe": "Sobre mi",
+  "newContent": "Proximamente",
+  "newContentDescription": "Proximamente",
+  "contact": "Contacto",
+  "home": "Inicio",
+  "moreAboutme": "Sobre mi",
+  "Skills": "Habilidades",
+  "Projects": "Proyectos",
+  "project1Title": "APP DIAS",
+  "project1Description": "Este proyecto en C# es una aplicación simple que toma una fecha como entrada y suma un día a esa fecha.",
+  "project2Title": "WEB TIENDAS",
+  "project2Description": "Este es un proyecto realizado con Python y Django, una página web de venta de frutas.",
+  "project3Title": "REPOSITORIO C#",
+  "project3Description": "Este es un proyecto de un repositorio donde se encuentran varios algoritmos realizados con C#.",
+  "skill1Title": "DESARROLLADOR FRONTEND",
+  "skill1Description": "Me apasiona el frontend porque me encanta crear experiencias visuales y funcionales que cautiven a los usuarios. Trabajar en el frontend me permite dar vida a diseños creativos y brindar una experiencia de usuario excepcional.",
+  "skill2Title": "DESARROLLADOR PYTHON",
+  "skill2Description": "Prefiero Python por su versatilidad y legibilidad. Me especializo en desarrollo web y automatización de tareas, aprovechando la potencia y la amplia comunidad de Python para crear soluciones eficientes y precisas.",
+  "skill3Title": "DESARROLLADOR DJANGO",
+  "skill3Description": "Me gusta Django porque me permite construir aplicaciones web de manera rápida y eficiente. Su enfoque en la productividad y la simplicidad me atrae, ya que puedo desarrollar proyectos complejos de manera más sencilla."
+}
