@@ -11,21 +11,21 @@ const Skills = () => {
         <div className="bg-white p-8 rounded-lg shadow-lg w-96">
           <p className="text-black mb-4">{t('skill1Description')}</p>
           <div className="flex justify-center items-center mt-4">
-            <div className="w-12 h-12 bg-gray-400 rounded-full"></div>
+            <img src="/iconos/skill1.png" alt="Skill 1" className="w-12 h-12 rounded-full" />
             <h3 className="text-xl font-bold ml-4">{t('skill1Title')}</h3>
           </div>
         </div>
         <div className="bg-white p-8 rounded-lg shadow-lg w-96">
           <p className="text-black mb-4">{t('skill2Description')}</p>
           <div className="flex justify-center items-center mt-4">
-            <div className="w-12 h-12 bg-gray-400 rounded-full"></div>
+            <img src="/iconos/skill2.png" alt="Skill 2" className="w-12 h-12 rounded-full" />
             <h3 className="text-xl font-bold ml-4">{t('skill2Title')}</h3>
           </div>
         </div>
         <div className="bg-white p-8 rounded-lg shadow-lg w-96">
           <p className="text-black mb-4">{t('skill3Description')}</p>
           <div className="flex justify-center items-center mt-4">
-            <div className="w-12 h-12 bg-gray-400 rounded-full"></div>
+            <img src="/iconos/skill2.png" alt="Skill 3" className="w-12 h-12 rounded-full" />
             <h3 className="text-xl font-bold ml-4">{t('skill3Title')}</h3>
           </div>
         </div>

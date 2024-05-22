@@ -10,7 +10,7 @@ const Projects = () => {
       <div className="flex flex-wrap justify-center gap-8">
         <div className="relative bg-slate-800 text-white p-8 rounded-lg shadow-lg w-96">
           <div className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-white rounded-full p-2">
-            <img src="logo1.png" alt="Proyecto 1" className="w-16 h-16 rounded-full" />
+            <img src="/iconos/logoC.png" alt="Proyecto 1" className="w-16 h-16 rounded-full" />
           </div>
           <div className="mt-12 text-center">
             <h3 className="text-xl font-bold mb-2">{t('project1Title')}</h3>
@@ -22,7 +22,7 @@ const Projects = () => {
         </div>
         <div className="relative bg-slate-800 text-white p-8 rounded-lg shadow-lg w-96">
           <div className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-white rounded-full p-2">
-            <img src="logo2.png" alt="Proyecto 2" className="w-16 h-16 rounded-full" />
+            <img src="/iconos/logo2.png" alt="Proyecto 2" className="w-16 h-16 rounded-full" />
           </div>
           <div className="mt-12 text-center">
             <h3 className="text-xl font-bold mb-2">{t('project2Title')}</h3>
@@ -34,7 +34,7 @@ const Projects = () => {
         </div>
         <div className="relative bg-slate-800 text-white p-8 rounded-lg shadow-lg w-96">
           <div className="absolute -top-8 left-1/2 transform -translate-x-1/2 bg-white rounded-full p-2">
-            <img src="logo3.png" alt="Proyecto 3" className="w-16 h-16 rounded-full" />
+            <img src="/iconos/logoC.png" alt="Proyecto 3" className="w-16 h-16 rounded-full" />
           </div>
           <div className="mt-12 text-center">
             <h3 className="text-xl font-bold mb-2">{t('project3Title')}</h3>
@@ -50,4 +50,3 @@ const Projects = () => {
 }
 
 export default Projects;
-
