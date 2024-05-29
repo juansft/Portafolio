@@ -16,7 +16,7 @@ const Projects = () => {
             <h3 className="text-xl font-bold mb-2">{t('project1Title')}</h3>
             <p>{t('project1Description')}</p>
             <div className="flex justify-center mt-4">
-              <a href="https://github.com/juansft/dias" className="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-blue-500">ir</a>
+              <a href="https://github.com/juansft/dias" target="_blank" rel="noopener noreferrer" className="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-blue-500">ir</a>
             </div>
           </div>
         </div>
@@ -28,7 +28,7 @@ const Projects = () => {
             <h3 className="text-xl font-bold mb-2">{t('project2Title')}</h3>
             <p>{t('project2Description')}</p>
             <div className="flex justify-center mt-4">
-              <a href="https://github.com/juansft/GranjaAppService" className="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-blue-500">ir</a>
+              <a href="https://github.com/juansft/GranjaAppService" target="_blank" rel="noopener noreferrer" className="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-blue-500">ir</a>
             </div>
           </div>
         </div>
@@ -40,7 +40,7 @@ const Projects = () => {
             <h3 className="text-xl font-bold mb-2">{t('project3Title')}</h3>
             <p>{t('project3Description')}</p>
             <div className="flex justify-center mt-4">
-              <a href="https://github.com/juansft/ejercicios-de-c" className="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-blue-500">ir</a>
+              <a href="https://github.com/juansft/ejercicios-de-c" target="_blank" rel="noopener noreferrer" className="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-blue-500">ir</a>
             </div>
           </div>
         </div>
@@ -50,4 +50,5 @@ const Projects = () => {
 }
 
 export default Projects;
+
 
